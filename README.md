@@ -33,4 +33,4 @@ Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama
 
 Dilanjutkan dengan tahap memilih bidang pekerjaan anda. Hal ini juga digunakan untuk membantu menemukan produk Asana yang cocok sesuai dengan anda. Misal anda ingin menggunakan *tool* Asana ini untuk melakukan manajemen proyek, ya tinggal pilih opsi yang tersedia dan sesuai yaitu "*Manajemen Proyek atau Program*". Bila sudah serasa memilih opsi yang diperlukan klik *button* lanjutkan.
 
-
+Setelah memilih bidang pekerjaan anda yaitu "*Manajemen Proyek atau Program*". Maka terdapat opsi tujuan apa yang anda akan lakukan di Asana. Terdapat rekomendasi untuk anda pada opsi tersebut. Klik *button* lanjutkan jika sudah.
