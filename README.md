@@ -9,5 +9,7 @@ Thomas Andrew I - 19081010165
 ## Fitur-Fitur Asana
 
 ### 1. Timeline
+Fitur timeline dapat digunakan untuk memetakan rancangan proyek yang sedang dikerjakan. Rancangan proyek yang dikerjakan bisa dibagikan kepada rekan sesama kerja yang membutuhkan.
+
 ### 2. Portofolio
 ### 3. Workload
