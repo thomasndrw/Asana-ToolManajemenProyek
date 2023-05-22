@@ -90,6 +90,25 @@ Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dash
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana16.jpeg)
 
 ### B. Cara membuat proyek baru
-### 1.
-### 2.
-### 3.
+*   Untuk membuat proyek baru klik opsi "buat" pada *navbar*, kemudian klik opsi "proyek".
+![alt text]()
+
+*   Kemudian anda bisa memilih opsi "proyek kosong" untuk memulai proyek kosongan.
+![alt text]()
+
+*   Lalu, beri nama proyek dan pilih tampilan dari proyekmu bisa berupa daftar, papan, linimasa, dan kalender. Dan disini anda bisa mengatur ruang kerja proyekmu ini bersifat privat atau publik di dropdown yang tersedia.
+![alt text]()
+
+*   Lanjut, anda juga bisa langsung mulai menambahkan tugas, membagikan dengan rekan, dan menetapkan alur kerja untuk proyek yang anda telah buat.
+![alt text]()
+
+*   Setelah beberapa tahapan selesai, anda akan dibawa langsung ke tampilan ruang kerja proyek.
+![alt text]()
+
+*   Di ruang kerja proyek ini anda bisa mengubah nama proyek, tanggal batasan mau dikerjakan sampai kapan proyeknya, dan bisa mengundang rekan kerja untuk berpartisipasi dalam proyek yang mau diselesaikan.
+![alt text]()
+
+*   Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang sebagai pertanda bahwa tugas tersebut telah diselesaikan.
+![alt text]()
+
+
