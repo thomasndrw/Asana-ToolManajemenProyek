@@ -32,9 +32,26 @@ Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*
 ### 3. Mempersiapkan akun
 Setelah melakukan "*verifikasi akun email*" anda akan dikembalikan ke halaman resmi Asana pada laman "*account setup*" untuk melengkapi data nama lengkap dan password akun Asana. Setelah selesai terisi klik *button* lanjutkan.
 
-### 4. Mengisi form data peran utama, bidang pekerjaan dan tujuan penggunaan Asana
+### 4. Mengisi form data peran utama
 Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama anda dalam *dropdown* yang telah tersedia. Peran utama disini maksudnya memilih peran pengguna sekarang status pekerjaan apa yang sedang dijalani. Hal ini digunakan untuk membantu menemukan produk Asana yang cocok dengan anda. Misal anda adalah seorang pelajar, maka dapat memilih siswa pada pilihan peran yang tersedia di *dropdown*. Kemudian klik *button* lanjutkan.
 
+### 5. Memilih bidang pekerjaan
 Dilanjutkan dengan tahap memilih bidang pekerjaan anda. Hal ini juga digunakan untuk membantu menemukan produk Asana yang cocok sesuai dengan anda. Misal anda ingin menggunakan *tool* Asana ini untuk melakukan manajemen proyek, ya tinggal pilih opsi yang tersedia dan sesuai yaitu "*Manajemen Proyek atau Program*". Bila sudah serasa memilih opsi yang diperlukan klik *button* lanjutkan.
 
+### 6. Memilih tujuan penggunaan Asana
 Setelah memilih bidang pekerjaan anda yaitu "*Manajemen Proyek atau Program*". Maka terdapat opsi tujuan apa yang anda akan lakukan di Asana. Terdapat rekomendasi untuk anda pada opsi tersebut. Klik *button* lanjutkan jika sudah.
+
+### 7. Konfigurasi proyek pertama
+Setelah mengisi beberapa form, dilanjutkan untuk memberi nama pada proyek pertama anda. Jika sudah Klik *button* lanjutkan.
+
+### 8. Mengisi apa saja tugas yang mau dikerjakan
+Pada tahap ini anda perlu mengisikan tugas apa saja yang mau dikerjakan pada proyek pertamamu. Jika sudah seperti biasa Klik *button* lanjutkan.
+
+### 8. Mengelompokkan tugas
+Pada tahap kali ini anda bisa mengelompokkan tugas-tugas ke dalam bagian atau tahapan proyek. Jika sudah Klik *button* lanjutkan.
+
+### 9. Menambahkan detail
+Tahap ini dilakukan menambahkan detail ke proyek anda. Jika sudah Klik *button* lanjutkan.
+
+### 10. Memilih tata letak proyek
+Setelah sesrangkaian tahapan, dilanjutkan dengan memilih tata letak yang sesuai dan efektif untuk proses manajemen proyek yang anda lakukan. Jika sudah Klik *button* lanjutkan dan akan ditampilkan halaman yang berisikan button *hyperlink* untuk mengunduh Asana versi iOS, Android, atau desktop. Jika tidak ingin mengunduhnya anda bisa klik *button* lewati untuk sekarang.
