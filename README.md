@@ -82,8 +82,8 @@ Bisa mengundang rekan melalui alamat email jika proyek yang dikerjakan dalam ben
 
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana13.jpeg)
 
-![alt text]()
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana14.jpeg)
 
 ### 12. Dashboard Asana
-Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard utama dengan akun Asana yang telah dibuat.
+Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard Asana tepatnya pada ruang kerja proyek pertama yang telah dibuat.
 ![alt text]()
