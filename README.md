@@ -24,7 +24,7 @@ Fitur *workload* ini dapat menggambarkan kapasitas kerja setiap orang dan memebr
 ### 1. Persiapan awal
 Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://app.asana.com/ dan apabila baru pertama kali menggunakan Asana serta belum memiliki akun, anda dapat membuat akun terlebih dahulu. Disini terdapat dua cara pendaftaran akun yaitu dengan "*Lanjutkan dengan Google*" atau dengan "*Memasukkan Alamat Email pada Textbox yang tersedia*". Lalu, klik *button* lanjutkan.
 
-![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana1.jpeg)
+![11111](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana1.jpeg)
 
 ### 2. Verifikasi akun
 Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*" anda dimintai untuk melakukan verifikasi alamat email yang anda cantumkan. Cek kotak masuk email dan klik *button* "*verifikasi alamat email*".
@@ -35,19 +35,23 @@ Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*
 
 ### 3. Mempersiapkan akun
 Setelah melakukan "*verifikasi akun email*" anda akan dikembalikan ke halaman resmi Asana pada laman "*account setup*" untuk melengkapi data nama lengkap dan password akun Asana. Setelah selesai terisi klik *button* lanjutkan.
+
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana4.jpeg)
 
 ### 4. Mengisi form data peran utama
 Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama anda dalam *dropdown* yang telah tersedia. Peran utama disini maksudnya memilih peran pengguna sekarang status pekerjaan apa yang sedang dijalani. Hal ini digunakan untuk membantu menemukan produk Asana yang cocok dengan anda. Misal anda adalah seorang pelajar, maka dapat memilih siswa pada pilihan peran yang tersedia di *dropdown*. Kemudian klik *button* lanjutkan.
+
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana5.1.jpeg)
 
 ### 5. Memilih bidang pekerjaan
 Dilanjutkan dengan tahap memilih bidang pekerjaan anda. Hal ini juga digunakan untuk membantu menemukan produk Asana yang cocok sesuai dengan anda. Misal anda ingin menggunakan *tool* Asana ini untuk melakukan manajemen proyek, ya tinggal pilih opsi yang tersedia dan sesuai yaitu "*Manajemen Proyek atau Program*". Bila sudah serasa memilih opsi yang diperlukan klik *button* lanjutkan.
+
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana6.1.jpeg)
 
 ### 6. Memilih tujuan penggunaan Asana
 Setelah memilih bidang pekerjaan anda yaitu "*Manajemen Proyek atau Program*". Maka terdapat opsi tujuan apa yang anda akan lakukan di Asana. Terdapat rekomendasi untuk anda pada opsi tersebut. Klik *button* lanjutkan jika sudah.
-![alt text]()
+
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana7.jpeg)
 
 ### 7. Konfigurasi proyek pertama
 Setelah mengisi beberapa form, dilanjutkan untuk memberi nama pada proyek pertama anda. Jika sudah Klik *button* lanjutkan.
