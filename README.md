@@ -19,6 +19,8 @@ Fitur portofolio digunakan untuk mengorganisir dan melacak semua proyek yang per
 Fitur *workload* ini dapat menggambarkan kapasitas kerja setiap orang dan memebrikan target terhadap masing-masing tugas. Hal ini dapat memudahkan dalam memperkirakan apakah rekan tim memiliki beban kerja terlalu sedikit atau terlalu berlebihan.
 
 ## Cara Penggunaan Tool Asana
+
+### A. Mendaftar Akun Asana
 ### 1. Persiapan awal
 Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://app.asana.com/ dan apabila baru pertama kali menggunakan Asana serta belum memiliki akun, anda dapat membuat akun terlebih dahulu. Disini terdapat dua cara pendaftaran akun yaitu dengan "*Lanjutkan dengan Google*" atau dengan "*Memasukkan Alamat Email pada Textbox yang tersedia*". Lalu, klik *button* lanjutkan.
 
