@@ -60,7 +60,8 @@ Setelah mengisi beberapa form, dilanjutkan untuk memberi nama pada proyek pertam
 
 ### 8. Mengisi apa saja tugas yang mau dikerjakan
 Pada tahap ini anda perlu mengisikan tugas apa saja yang mau dikerjakan pada proyek pertamamu. Jika sudah seperti biasa Klik *button* lanjutkan.
-![alt text]()
+
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana9.jpeg)
 
 ### 8. Mengelompokkan tugas
 Pada tahap kali ini anda bisa mengelompokkan tugas-tugas ke dalam bagian atau tahapan proyek. Jika sudah Klik *button* lanjutkan.
