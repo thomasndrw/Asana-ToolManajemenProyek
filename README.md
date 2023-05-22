@@ -79,6 +79,9 @@ Setelah sesrangkaian tahapan, dilanjutkan dengan memilih tata letak yang sesuai 
 
 ### 13. Mengundang rekan tim
 Bisa mengundang rekan melalui alamat email jika proyek yang dikerjakan dalam bentuk tim. Jika sudah Klik *button* lanjutkan dan akan ditampilkan halaman yang berisikan button *hyperlink* untuk mengunduh Asana versi iOS, Android, atau desktop. Jika tidak ingin mengunduhnya anda bisa klik *button* lewati untuk sekarang.
+
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana13.jpeg)
+
 ![alt text]()
 
 ### 12. Dashboard Asana
