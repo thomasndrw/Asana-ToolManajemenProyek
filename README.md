@@ -65,7 +65,8 @@ Pada tahap ini anda perlu mengisikan tugas apa saja yang mau dikerjakan pada pro
 
 ### 8. Mengelompokkan tugas
 Pada tahap kali ini anda bisa mengelompokkan tugas-tugas ke dalam bagian atau tahapan proyek. Jika sudah Klik *button* lanjutkan.
-![alt text]()
+
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana10.jpeg)
 
 ### 9. Menambahkan detail
 Tahap ini dilakukan menambahkan detail ke proyek anda. Jika sudah Klik *button* lanjutkan.
