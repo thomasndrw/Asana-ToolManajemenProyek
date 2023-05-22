@@ -88,3 +88,8 @@ Bisa mengundang rekan melalui alamat email jika proyek yang dikerjakan dalam ben
 Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard Asana tepatnya pada ruang kerja proyek pertama yang telah dibuat.
 
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana16.jpeg)
+
+### B. Cara membuat proyek baru
+### 1.
+### 2.
+### 3.
