@@ -75,7 +75,8 @@ Tahap ini dilakukan menambahkan detail ke proyek anda. Jika sudah Klik *button* 
 
 ### 10. Memilih tata letak proyek
 Setelah sesrangkaian tahapan, dilanjutkan dengan memilih tata letak yang sesuai dan efektif untuk proses manajemen proyek yang anda lakukan. Jika sudah Klik *button* lanjutkan dan akan ditampilkan halaman yang berisikan button *hyperlink* untuk mengunduh Asana versi iOS, Android, atau desktop. Jika tidak ingin mengunduhnya anda bisa klik *button* lewati untuk sekarang.
-![alt text]()
+
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana12.jpeg)
 
 ### 11. Dashboard Asana
 Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard utama dengan akun Asana yang telah dibuat.
