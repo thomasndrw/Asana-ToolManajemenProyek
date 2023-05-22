@@ -31,6 +31,8 @@ Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*
 
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana2.jpeg)
 
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana3.jpeg)
+
 ### 3. Mempersiapkan akun
 Setelah melakukan "*verifikasi akun email*" anda akan dikembalikan ke halaman resmi Asana pada laman "*account setup*" untuk melengkapi data nama lengkap dan password akun Asana. Setelah selesai terisi klik *button* lanjutkan.
 ![alt text]()
