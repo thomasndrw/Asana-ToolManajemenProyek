@@ -39,7 +39,7 @@ Setelah melakukan "*verifikasi akun email*" anda akan dikembalikan ke halaman re
 
 ### 4. Mengisi form data peran utama
 Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama anda dalam *dropdown* yang telah tersedia. Peran utama disini maksudnya memilih peran pengguna sekarang status pekerjaan apa yang sedang dijalani. Hal ini digunakan untuk membantu menemukan produk Asana yang cocok dengan anda. Misal anda adalah seorang pelajar, maka dapat memilih siswa pada pilihan peran yang tersedia di *dropdown*. Kemudian klik *button* lanjutkan.
-![alt text]()
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana5.1.jpeg)
 
 ### 5. Memilih bidang pekerjaan
 Dilanjutkan dengan tahap memilih bidang pekerjaan anda. Hal ini juga digunakan untuk membantu menemukan produk Asana yang cocok sesuai dengan anda. Misal anda ingin menggunakan *tool* Asana ini untuk melakukan manajemen proyek, ya tinggal pilih opsi yang tersedia dan sesuai yaitu "*Manajemen Proyek atau Program*". Bila sudah serasa memilih opsi yang diperlukan klik *button* lanjutkan.
