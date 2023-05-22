@@ -70,7 +70,8 @@ Pada tahap kali ini anda bisa mengelompokkan tugas-tugas ke dalam bagian atau ta
 
 ### 9. Menambahkan detail
 Tahap ini dilakukan menambahkan detail ke proyek anda. Jika sudah Klik *button* lanjutkan.
-![alt text]()
+
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana11.jpeg)
 
 ### 10. Memilih tata letak proyek
 Setelah sesrangkaian tahapan, dilanjutkan dengan memilih tata letak yang sesuai dan efektif untuk proses manajemen proyek yang anda lakukan. Jika sudah Klik *button* lanjutkan dan akan ditampilkan halaman yang berisikan button *hyperlink* untuk mengunduh Asana versi iOS, Android, atau desktop. Jika tidak ingin mengunduhnya anda bisa klik *button* lewati untuk sekarang.
