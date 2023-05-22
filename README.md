@@ -21,7 +21,7 @@ Fitur *workload* ini dapat menggambarkan kapasitas kerja setiap orang dan memebr
 ## Cara Penggunaan Tool Asana
 ### 1. Persiapan awal
 Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://app.asana.com/ dan apabila baru pertama kali menggunakan Asana serta belum memiliki akun, anda dapat membuat akun terlebih dahulu. Disini terdapat dua cara pendaftaran akun yaitu dengan "*Lanjutkan dengan Google*" atau dengan "*Memasukkan Alamat Email pada Textbox yang tersedia*". Lalu, klik *button* lanjutkan.
-!https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/018a3f078908daa5048219af2ffc527e98726ae9/asana/asana1.jpeg
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana1.jpeg)
 
 ### 2. Verifikasi akun
 Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*" anda dimintai untuk melakukan verifikasi alamat email yang anda cantumkan. Cek kotak masuk email dan klik *button* "*verifikasi alamat email*".
