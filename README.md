@@ -18,8 +18,7 @@ Fitur portofolio digunakan untuk mengorganisir dan melacak semua proyek yang per
 ### 3. Workload
 Fitur *workload* ini dapat menggambarkan kapasitas kerja setiap orang dan memebrikan target terhadap masing-masing tugas. Hal ini dapat memudahkan dalam memperkirakan apakah rekan tim memiliki beban kerja terlalu sedikit atau terlalu berlebihan.
 
-## Cara Penggunaan Tool Asana
-
+## Cara Penggunaan *Tool* Asana
 ### A. Mendaftar Akun Asana
 ### 1. Persiapan awal
 Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://app.asana.com/ dan apabila baru pertama kali menggunakan Asana serta belum memiliki akun, anda dapat membuat akun terlebih dahulu. Disini terdapat dua cara pendaftaran akun yaitu dengan "*Lanjutkan dengan Google*" atau dengan "*Memasukkan Alamat Email pada Textbox yang tersedia*". Lalu, klik *button* lanjutkan.
@@ -117,4 +116,13 @@ Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dash
 
 ![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana23.jpeg)
 
+## Pilihan Paket Asana
+### 1. Paket *basic*
+Paket *basic* Asana adalah paket gratis untuk tim dengan batas maksimal 15 pengguna. Tidak ada batasan jumlah tugas yang dapat dibuat atau banyak lampiran file tugasnya. Namun, Batasan utamanya untuk pengguna gratisan ini ialah tidak adanya akses fitur *timeline* atau *dashboard* tambahannya.
+
+### 2. Paket *premium*
+Paket *premium* merupakan paket berbayar menengah per bulan. Fitur yang ditawarkan di paket ini adalah *timeline*, *dashboard* khusus, *forms*, hingga panel kontrol admin untuk manajer.
+
+### 3. Paket *business*
+Paket *business* merupakan paket tertinggi tarifnya dengan pembayaran per bulan. Pilihan paket ini diperuntukkan bagi kelompok yang perlu mengelola pekerjaan lintas inisiatif. Fitur yang ditawarkan dipaket ini diantaranya portofolio, *workload*, *proofing*, *lock* bagian tertentu, terintegrasi dengan Adobe Creative Cloud dan juga fitur otomatisasi penjadwalan tugas.
 
