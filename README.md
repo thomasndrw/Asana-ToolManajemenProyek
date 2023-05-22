@@ -35,7 +35,7 @@ Langkah selanjutnya, jika opsi pendaftarannya memilih "*Memasukkan Alamat Email*
 
 ### 3. Mempersiapkan akun
 Setelah melakukan "*verifikasi akun email*" anda akan dikembalikan ke halaman resmi Asana pada laman "*account setup*" untuk melengkapi data nama lengkap dan password akun Asana. Setelah selesai terisi klik *button* lanjutkan.
-![alt text]()
+![alt text](https://github.com/thomasndrw/Asana-ToolManajemenProyek/blob/main/asana/asana4.jpeg)
 
 ### 4. Mengisi form data peran utama
 Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama anda dalam *dropdown* yang telah tersedia. Peran utama disini maksudnya memilih peran pengguna sekarang status pekerjaan apa yang sedang dijalani. Hal ini digunakan untuk membantu menemukan produk Asana yang cocok dengan anda. Misal anda adalah seorang pelajar, maka dapat memilih siswa pada pilihan peran yang tersedia di *dropdown*. Kemudian klik *button* lanjutkan.
